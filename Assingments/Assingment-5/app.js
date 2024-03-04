@@ -110,3 +110,14 @@ document.write("<br>")
 document.write("Ship charges : " + shipcharges)
 document.write("<br> <br>")
 
+//q8
+
+var marks = 100
+var obtmarks = 80
+document.write("Total marks : " + marks)
+document.write("<br>")
+document.write("Marks obtained : " + obtmarks)
+document.write("<br>")
+document.write("Result is : " + obtmarks + "%")
+document.write("<br> <br>")
+
