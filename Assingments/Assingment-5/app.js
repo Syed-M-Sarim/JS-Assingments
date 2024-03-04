@@ -54,3 +54,43 @@ order = 0 / order
 document.write("<br>")
 document.write("The remainder is : " + order)
 
+//q4
+
+var ticket = 600
+
+var cost = ticket * 5
+
+document.write("<br> <br>")
+document.write("Total = " + cost + "pkr")
+
+//q5
+
+document.write("<br> <br>")
+document.write("Table of 4")
+document.write("<br>")
+document.write("4 x 1 = 4")
+document.write("<br>")
+document.write("4 x 2 = 8")
+document.write("<br>")
+document.write("4 x 3 = 12")
+document.write("<br>")
+document.write("4 x 4 = 16")
+document.write("<br>")
+document.write("4 x 5 = 20")
+document.write("<br>")
+document.write("4 x 6 = 24")
+document.write("<br>")
+document.write("4 x 7 = 28")
+document.write("<br>")
+document.write("4 x 8 = 32")
+document.write("<br>")
+document.write("4 x 9 = 36")
+document.write("<br>")
+document.write("4 x 10 = 40")
+document.write("<br>")
+document.write("4 x 11 = 44")
+document.write("<br>")
+document.write("4 x 12 = 48")
+
+//q6
+
