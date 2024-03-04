@@ -121,3 +121,60 @@ document.write("<br>")
 document.write("Result is : " + obtmarks + "%")
 document.write("<br> <br>")
 
+//q9 
+
+var dollar = 104.80
+var riyal = 28
+var converted = 3000
+document.write("Total currency in PKR : " + converted)
+
+//q10
+
+var num = 10
+var add = num + 5
+document.write(add)
+document.write("<br>")
+var multiply = num * 10
+document.write(multiply)
+document.write("<br>")
+var divide = num / 2
+document.write(divide)
+document.write("<br> <br>")
+
+//q11
+
+var currentyear = 2024
+var birthyear = 2003
+var age = 21
+
+document.write("Current Year : " + currentyear)
+document.write("<br>")
+document.write("Birth Year : " + birthyear)
+document.write("<br>")
+document.write("Age : " + age)
+document.write("<br> <br>")
+
+//q12
+
+var radius = 10
+var circumference = 125.76
+var area = radius * circumference
+
+document.write("Area is : " + area)
+document.write("<br> <br>")
+
+//q13
+
+var snack = "Doritos"
+var newage = 21
+var maxage = 70
+var eat = 2
+document.write("Fav snack : " + snack)
+document.write("<br>")
+document.write("Current age : " + newage)
+document.write("<br>")
+document.write("Estimated age : " + maxage)
+document.write("<br>")
+document.write("Amount of snacks per day : " + eat)
+document.write("<br>")
+document.write("You will need 150 " + snack + "to last until the ripe old age of " + maxage)
