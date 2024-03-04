@@ -91,6 +91,22 @@ document.write("<br>")
 document.write("4 x 11 = 44")
 document.write("<br>")
 document.write("4 x 12 = 48")
+document.write("<br> <br>")
 
-//q6
+//q5
+
+var price1 = 100
+var price2 = 200
+var orderquantity = 3
+var orderquantity2 = 5
+var shipcharges = 50
+
+document.write("Price of item 1 is : " + price1)
+document.write("<br>")
+document.write("Quantity of item 1 is : " + orderquantity )
+document.write("<br>")
+document.write("Quantity of item 2 is : " + orderquantity2)
+document.write("<br>")
+document.write("Ship charges : " + shipcharges)
+document.write("<br> <br>")
 
