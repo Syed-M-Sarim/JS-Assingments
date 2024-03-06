@@ -1,8 +1,14 @@
+//q1
+
 var input1 = "AZ"
-var input-2 = "az"
-if (input1 === "AZ"and input2 === "az"){
-    console.log("Passed")
+var imput2 = "az"
+
+if (input1 === "az" && imput2 === "AZ" ){
+    document.write("<h2>Passed</h2>")
 }
 else{
-    console.log("Failed")
+    document.write("<h2>Failed</h2>")
 }
+
+//q2
+
