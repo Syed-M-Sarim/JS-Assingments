@@ -39,3 +39,30 @@ else{
 
 //q4
 
+var word = prompt("Enter Alphabet")
+var vowel = prompt("A", "E", "I", "O", "U")
+
+if (word == vowel){
+    document.write("Matched")
+    document.write("<br>")
+}
+else{
+    document.write("Not matched")
+    document.write("<br>")
+}
+
+//q5
+
+var password = "Hello"
+var check = prompt("Enter Password")
+
+if (check == password){
+    document.write("Correct Password")
+    document.write("<br>")
+}
+else{
+    document.write("Retry")
+    document.write("<br>")
+}
+
+
