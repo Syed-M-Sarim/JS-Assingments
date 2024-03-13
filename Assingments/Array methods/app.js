@@ -1,6 +1,6 @@
-//q1
+//task
 
-var students = []
+var fruits = []
 
-//q2
-
+fruits.push = ["Apple", "Banana", "Pomegranet", "Cherry", "Kiwi"]
+console.log("Lists of items: " + fruits)
